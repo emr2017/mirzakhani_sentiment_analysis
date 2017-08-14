@@ -1,2 +1,3 @@
 # mirzakhani_sentiment_analysis
-Analysis of Persian and English tweets related to Maryam Mirzakhani's death
+# Analysis of Persian and English tweets related to Maryam Mirzakhani's death
+Before and after the passing of Prof Maryam Mirzakhani, the Field Medalist who died of breast cancer at age 40, I observed different reactions in English- and Persian-speaking social media. For instance, the reactions seemed more sentimental and political in Persian posts, and they also started with rumors about her cancer before her passing in those posts. I used tweepy to collect every tweet that had her last name in both languages starting 5 days before her passing. This repository shows the results of the analysis of that data. 
